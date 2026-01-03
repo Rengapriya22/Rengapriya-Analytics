@@ -57,8 +57,8 @@
 ---
 
 ## 📫 Connect With Me
-<p>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/rengapriya/overlay/contact-info/?
+<p>[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rengapriya/)
+
     <a href="https://www.linkedin.com/in/rengapriya-analytics/" target="_blank">
 
     lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BCNG%2FErFvTiyCSl5qHBHoMg%3D%3D" target="_blank">
