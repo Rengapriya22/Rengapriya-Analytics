@@ -25,5 +25,5 @@
 - Business Case Studies
 
 ## 📫 Connect with Me
-- LinkedIn: https://linkedin.com/in/your-link
-- Email: yourmail@gmail.com
+- LinkedIn: https://www.linkedin.com/in/rengapriya/overlay/contact-info/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BCNG%2FErFvTiyCSl5qHBHoMg%3D%3D
+- Email: rengapriyanr22@gmail.com
