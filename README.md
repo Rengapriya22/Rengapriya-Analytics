@@ -58,10 +58,10 @@
 
 ## 📫 Connect With Me
 <p>
-  <a href=https://www.linkedin.com/in/rengapriya/overlay/contact-info/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BCNG%2FErFvTiyCSl5qHBHoMg%3D%3D
+  <a href="https://linkedin.com/in/your-https://www.linkedin.com/in/rengapriya/overlay/contact-info/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BCNG%2FErFvTiyCSl5qHBHoMg%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto: rengapriyanr22@gmail.com
+  <a href="mailto:rengapriyanr22@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
