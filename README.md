@@ -57,12 +57,8 @@
 ---
 
 ## 📫 Connect With Me
-<p>[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rengapriya/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rengapriya/)
 
-    <a href="https://www.linkedin.com/in/rengapriya-analytics/" target="_blank">
-
-    lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BCNG%2FErFvTiyCSl5qHBHoMg%3D%3D" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:rengapriyanr22@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
